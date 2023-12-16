@@ -15,12 +15,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 - ⚡ Fun fact: I am single from I was born
 
 #### Top Technologies
+![Java Badge](https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge&logo=coffee&logoColor=white&labelColor=red)
+![Python Badge](https://img.shields.io/badge/Python-%23000?logo=python&labelColor=white)
 
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kenziehh.kenziehh)
 
-<!-- <details> -->
+
+
 
 
