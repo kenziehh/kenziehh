@@ -27,6 +27,21 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
+ Last Updated on 16/12/2023 22:23:33 UTC
 <!--END_SECTION:waka-->
 
 
