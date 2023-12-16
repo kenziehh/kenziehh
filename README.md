@@ -21,7 +21,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 ![Python Badge](https://img.shields.io/badge/Python-%230492C2?style=for-the-badge&logo=python&labelColor=black)
 
 #### GitHub Stats
-[![kenziehh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenziehh)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kenziehh"/>
 <img src="https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=kenziehh&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kenziehh stats"/>
 
 
