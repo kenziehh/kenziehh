@@ -4,7 +4,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzie-taqiyassar-37458b1aa/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_kenziehh/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ghaisani.nurani@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kenzie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzie-taqiyassar-37458b1aa/) [![Instagram Badge](https://img.shields.io/badge/-@_kenziehh_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_kenziehh/) [![Mail Badge](https://img.shields.io/badge/-ghaisani.nurani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ghaisani.nurani@gmail.com)
 
 ### What I currently Do
 
