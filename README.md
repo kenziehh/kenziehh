@@ -27,7 +27,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,7 +58,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 07:41:48 UTC
+ Last Updated on 17/12/2023 10:56:31 UTC
 <!--END_SECTION:waka-->
 
 
