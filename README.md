@@ -27,21 +27,38 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 124 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
+**Timeline**
 
- Last Updated on 16/12/2023 22:24:12 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
+
+
+ Last Updated on 17/12/2023 07:41:48 UTC
 <!--END_SECTION:waka-->
 
 
