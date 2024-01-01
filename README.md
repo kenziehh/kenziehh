@@ -27,15 +27,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 165 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,22 +70,21 @@ Sunday                   77 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               21 hrs 28 mins      ██████████████████░░░░░░░   72.36 % 
-HTML                     7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               21 hrs 6 mins       ██████████████████░░░░░░░   72.83 % 
+HTML                     7 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CareerHub                20 hrs 5 mins       █████████████████░░░░░░░░   67.68 % 
-CareerHub Tailwind       8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-movie-api                1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+CareerHub                21 hrs 14 mins      ██████████████████░░░░░░░   73.29 % 
+CareerHub Tailwind       7 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
 
 💻 Operating System: 
-Windows                  29 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +104,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:38:41 UTC
+ Last Updated on 01/01/2024 18:38:58 UTC
 <!--END_SECTION:waka-->
 
 
