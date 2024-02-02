@@ -1,5 +1,8 @@
 ## Hi I'm Kenzie
 
+My Porfolio Website!
+https://kenziehh.vercel.app/
+
 I am an Informatics Engineering student at Brawijaya University who is currently studying Software Engineering, Data Science, and Machine Learning. I also keep to learn and practice in programming everyday and explore all of field in IT to keep update my knowledge.
 
 :mailbox: Reach me out!
