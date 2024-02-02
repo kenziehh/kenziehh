@@ -19,15 +19,6 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 - 😄 Pronouns: Kenzi, Kenji
 - ⚡ Fun fact: I am single from I was born
 
-#### Top Technologies
-![Java Badge](https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge&logo=coffee&logoColor=white&labelColor=red)
-![Python Badge](https://img.shields.io/badge/Python-%230492C2?style=for-the-badge&logo=python&labelColor=black)
-
-#### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kenziehh"/>
-<img src="https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=kenziehh&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kenziehh stats"/>
-
-
 #### Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%208%20mins-blue)
