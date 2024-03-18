@@ -21,13 +21,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 179 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +64,20 @@ Sunday                   104 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               17 hrs 37 mins      ██████████████████████░░░   87.44 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               17 hrs 58 mins      ███████████████████████░░   91.87 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-internship-bcc-2024      19 hrs 13 mins      ████████████████████████░   95.32 % 
-Semester 3               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+internship-bcc-2024      19 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2024 18:39:12 UTC
+ Last Updated on 18/03/2024 18:40:08 UTC
 <!--END_SECTION:waka-->
 
 
