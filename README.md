@@ -29,6 +29,8 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 180 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -62,18 +64,18 @@ Sunday                   104 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 hrs 39 mins       ████████████████████████░   96.27 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript               4 hrs 10 mins       ████████████████████████░   95.87 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-internship-bcc-2024      4 hrs 49 mins       █████████████████████████   100.00 % 
+internship-bcc-2024      4 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +95,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:38:52 UTC
+ Last Updated on 24/03/2024 18:39:46 UTC
 <!--END_SECTION:waka-->
 
 
