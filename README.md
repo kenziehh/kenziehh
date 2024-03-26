@@ -64,17 +64,16 @@ Sunday                   104 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████████████████████░   95.55 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-internship-bcc-2024      4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 18:38:42 UTC
+ Last Updated on 26/03/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 
