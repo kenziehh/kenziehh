@@ -21,7 +21,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -62,17 +62,20 @@ Sunday                   104 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      2 hrs 3 mins        █████████████████████████   100.00 % 
+PHP                      4 hrs               █████████████████████████   99.60 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dasarphp                 1 hr 6 mins         ██████████████░░░░░░░░░░░   54.10 % 
-form                     56 mins             ███████████░░░░░░░░░░░░░░   45.90 % 
+session-cookie           1 hr 58 mins        ████████████░░░░░░░░░░░░░   48.96 % 
+dasarphp                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+form                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +95,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 18:38:42 UTC
+ Last Updated on 01/04/2024 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 
