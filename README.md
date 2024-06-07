@@ -23,11 +23,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 277 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,20 +64,19 @@ Sunday                   129 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               7 hrs 4 mins        ████████████████░░░░░░░░░   64.62 % 
-PHP                      3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               2 hrs 43 mins       ████████████████░░░░░░░░░   64.17 % 
+PHP                      1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SportHub                 10 hrs 56 mins      █████████████████████████   100.00 % 
+SportHub                 4 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +96,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2024 18:40:52 UTC
+ Last Updated on 07/06/2024 18:41:55 UTC
 <!--END_SECTION:waka-->
 
 
