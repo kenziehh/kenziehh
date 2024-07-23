@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -27,7 +27,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 357 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Sunday                   180 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       ████████████████████░░░░░   78.04 % 
-HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               6 hrs 49 mins       ██████████████████████░░░   86.43 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jatinom                  4 hrs 36 mins       ████████████████████████░   94.33 % 
-1 go                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+jatinom                  7 hrs 37 mins       ████████████████████████░   96.50 % 
+1 go                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 18:42:54 UTC
+ Last Updated on 23/07/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
 
 
