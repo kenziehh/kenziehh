@@ -19,15 +19,11 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 357 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,50 +31,6 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-🌆 Daytime                273 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌃 Evening                426 commits         ███████████░░░░░░░░░░░░░░   45.51 % 
-🌙 Night                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Wednesday                113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Thursday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Friday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 155 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Sunday                   180 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-JavaScript               6 hrs 49 mins       ██████████████████████░░░   86.43 % 
-HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 54 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-jatinom                  7 hrs 37 mins       ████████████████████████░   96.50 % 
-1 go                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-
-💻 Operating System: 
-Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,7 +48,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:41:35 UTC
+ Last Updated on 24/07/2024 18:44:13 UTC
 <!--END_SECTION:waka-->
 
 
