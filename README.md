@@ -19,15 +19,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,080 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +60,20 @@ Sunday                   503 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ████████████████░░░░░░░░░   63.47 % 
-Kotlin                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               5 hrs 39 mins       ██████████████████████░░░   86.81 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-regina-dashboard         4 hrs 42 mins       ███████████████████░░░░░░   74.25 % 
-nutric                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+regina-dashboard         6 hrs 22 mins       ████████████████████████░   97.77 % 
+nutric                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +93,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 18:51:55 UTC
+ Last Updated on 18/12/2024 18:49:47 UTC
 <!--END_SECTION:waka-->
 
 
