@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,19 +62,19 @@ Sunday                   507 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               9 hrs 51 mins       █████████████████████████   98.28 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               9 hrs 34 mins       █████████████████████████   98.55 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  9 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-regina-dashboard         10 hrs 1 min        █████████████████████████   100.00 % 
+regina-dashboard         9 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  9 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 18:46:04 UTC
+ Last Updated on 25/12/2024 18:45:28 UTC
 <!--END_SECTION:waka-->
 
 
