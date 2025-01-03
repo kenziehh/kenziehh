@@ -19,15 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 57 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,20 +62,21 @@ Sunday                   507 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      5 hrs 8 mins        █████████████░░░░░░░░░░░░   50.83 % 
-TypeScript               4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+PHP                      10 hrs 50 mins      █████████████░░░░░░░░░░░░   52.11 % 
+TypeScript               9 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.56 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Blade Template           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  20 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vehicle-monitoring       9 hrs 9 mins        ███████████████████████░░   90.58 % 
-regina-dashboard         57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+vehicle-monitoring       19 hrs 52 mins      ████████████████████████░   95.43 % 
+regina-dashboard         57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Windows                  10 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +96,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 18:46:57 UTC
+ Last Updated on 03/01/2025 18:46:38 UTC
 <!--END_SECTION:waka-->
 
 
