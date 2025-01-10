@@ -19,6 +19,8 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,50 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                412 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌆 Daytime                1269 commits        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌃 Evening                1716 commits        ██████████░░░░░░░░░░░░░░░   39.33 % 
+🌙 Night                  966 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Tuesday                  764 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   675 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 649 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Sunday                   517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               6 hrs 56 mins       ███████████████████████░░   90.95 % 
+Kotlin                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+suitmedia-frontend-test  7 hrs 16 mins       ████████████████████████░   95.20 % 
+mobile_test              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+
+💻 Operating System: 
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:48:48 UTC
+ Last Updated on 10/01/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 
