@@ -62,18 +62,16 @@ Sunday                   517 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               50 mins             ███████████████████████░░   90.85 % 
-Kotlin                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-suitmedia-frontend-test  50 mins             ███████████████████████░░   90.85 % 
-mobile_test              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +91,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 18:46:15 UTC
+ Last Updated on 21/01/2025 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 
