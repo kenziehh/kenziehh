@@ -19,13 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 82 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,17 +62,21 @@ Sunday                   517 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 min               ████████████████████░░░░░   80.01 % 
-Text                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+TypeScript               3 hrs 59 mins       ████████████████████████░   96.05 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gps                      1 min               █████████████████████████   100.00 % 
+fms-sekawan-web-app      4 hrs 8 mins        █████████████████████████   99.47 % 
+gps                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +96,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 18:45:43 UTC
+ Last Updated on 01/02/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
 
 
