@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,7 +62,7 @@ Sunday                   517 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               27 hrs 26 mins      █████████████████████████   98.77 % 
+TypeScript               27 hrs 27 mins      █████████████████████████   98.77 % 
 Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
@@ -72,7 +72,8 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 VS Code                  27 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fms-sekawan-web-app      27 hrs 47 mins      █████████████████████████   100.00 % 
+fms-sekawan-web-app      27 hrs 47 mins      █████████████████████████   99.95 % 
+tradex                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
 Windows                  27 hrs 47 mins      █████████████████████████   100.00 % 
@@ -95,7 +96,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 18:43:40 UTC
+ Last Updated on 09/02/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 
