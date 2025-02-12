@@ -19,13 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +62,21 @@ Sunday                   517 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               31 hrs 46 mins      ████████████████████████░   97.10 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               30 hrs 39 mins      ████████████████████████░   97.73 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fms-sekawan-web-app      30 hrs 53 mins      ████████████████████████░   94.43 % 
-tradex                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+fms-sekawan-web-app      29 hrs 32 mins      ████████████████████████░   94.19 % 
+tradex                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 💻 Operating System: 
-Windows                  32 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +96,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 18:47:22 UTC
+ Last Updated on 12/02/2025 18:47:34 UTC
 <!--END_SECTION:waka-->
 
 
