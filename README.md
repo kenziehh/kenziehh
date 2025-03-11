@@ -19,13 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 116 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,6 +35,51 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+🌆 Daytime                1330 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                1773 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌙 Night                  1007 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Tuesday                  788 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Wednesday                548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Thursday                 764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Friday                   681 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 691 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               35 hrs 22 mins      ███████████████████████░░   93.32 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+
+🔥 Editors: 
+VS Code                  37 hrs 53 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+peaknflow-fe             25 hrs 23 mins      █████████████████░░░░░░░░   66.99 % 
+fms-sekawan-web-app      9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+smart-utilities-web-app  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+
+💻 Operating System: 
+Windows                  37 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -50,7 +97,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:48:43 UTC
+ Last Updated on 11/03/2025 18:51:06 UTC
 <!--END_SECTION:waka-->
 
 
