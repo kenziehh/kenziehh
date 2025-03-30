@@ -19,13 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 252 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +62,21 @@ Sunday                   865 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               17 hrs 11 mins      █████████████████████████   99.57 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               17 hrs 12 mins      █████████████████████████   99.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-peaknflow-fe             17 hrs 16 mins      █████████████████████████   100.00 % 
+peaknflow-fe             17 hrs 11 mins      █████████████████████████   99.60 % 
+portfolio                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  17 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +96,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:46:47 UTC
+ Last Updated on 30/03/2025 18:46:52 UTC
 <!--END_SECTION:waka-->
 
 
