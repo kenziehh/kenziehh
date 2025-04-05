@@ -27,6 +27,8 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 252 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -60,17 +62,17 @@ Sunday                   865 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        █████████████████████████   100.00 % 
+TypeScript               1 hr 59 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-peaknflow-fe             2 hrs 3 mins        ████████████████████████░   96.74 % 
-portfolio                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+peaknflow-fe             1 hr 55 mins        ████████████████████████░   96.51 % 
+portfolio                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +92,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 18:49:22 UTC
+ Last Updated on 05/04/2025 18:45:46 UTC
 <!--END_SECTION:waka-->
 
 
