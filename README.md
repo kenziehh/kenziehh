@@ -19,15 +19,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 256 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,16 +60,21 @@ Sunday                   869 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     41 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
+TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+JavaScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sptpa-tel-u              1 hr 25 mins        ██████████████████████░░░   89.87 % 
+sptpa                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,7 +94,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2025 18:46:40 UTC
+ Last Updated on 07/04/2025 18:49:35 UTC
 <!--END_SECTION:waka-->
 
 
