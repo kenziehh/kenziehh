@@ -19,13 +19,15 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 537 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +62,20 @@ Sunday                   1372 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               53 mins             ███████████████░░░░░░░░░░   60.04 % 
-PHP                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Apache Config            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               1 hr 7 mins         █████████████████░░░░░░░░   67.35 % 
+Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+PHP                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Apache Config            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sptpa-tel-u              1 hr 28 mins        █████████████████████████   100.00 % 
+sptpa-tel-u              1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +95,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 18:51:07 UTC
+ Last Updated on 16/06/2025 18:55:20 UTC
 <!--END_SECTION:waka-->
 
 
