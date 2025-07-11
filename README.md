@@ -27,6 +27,8 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 697 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -94,7 +96,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 18:56:55 UTC
+ Last Updated on 11/07/2025 18:55:34 UTC
 <!--END_SECTION:waka-->
 
 
