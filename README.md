@@ -27,8 +27,6 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 816 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -77,11 +75,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               36 repos            █████████████░░░░░░░░░░░░   52.17 % 
-Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               36 repos            █████████████░░░░░░░░░░░░   51.43 % 
+Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
@@ -91,7 +89,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 18:58:47 UTC
+ Last Updated on 24/07/2025 18:58:45 UTC
 <!--END_SECTION:waka-->
 
 
