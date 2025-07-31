@@ -19,6 +19,8 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,45 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1004 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                3536 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
+🌃 Evening                3607 commits        █████████░░░░░░░░░░░░░░░░   34.94 % 
+🌙 Night                  2177 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  1690 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Wednesday                1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Thursday                 1479 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Friday                   1438 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Saturday                 1462 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Sunday                   1653 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -50,7 +91,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 19:00:03 UTC
+ Last Updated on 31/07/2025 19:01:08 UTC
 <!--END_SECTION:waka-->
 
 
