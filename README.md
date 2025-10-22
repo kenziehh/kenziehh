@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,18 +62,18 @@ Sunday                   2110 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Bash                     30 mins             ██████████████████░░░░░░░   71.50 % 
-XML                      12 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Bash                     30 mins             ███████████████░░░░░░░░░░   59.96 % 
+XML                      20 mins             ██████████░░░░░░░░░░░░░░░   40.04 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bruteforce               30 mins             ██████████████████░░░░░░░   71.50 % 
-download                 12 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+bruteforce               30 mins             ███████████████░░░░░░░░░░   59.96 % 
+download                 20 mins             ██████████░░░░░░░░░░░░░░░   40.04 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +93,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 18:55:58 UTC
+ Last Updated on 22/10/2025 18:56:00 UTC
 <!--END_SECTION:waka-->
 
 
