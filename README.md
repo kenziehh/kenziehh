@@ -19,15 +19,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,157 Contributions in the Year 2025
+> 🏆 1,164 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,45 +33,6 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1233 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-🌆 Daytime                5440 commits        ██████████░░░░░░░░░░░░░░░   41.97 % 
-🌃 Evening                4211 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌙 Night                  2077 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1258 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  1896 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                2070 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Thursday                 1550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Friday                   1466 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Saturday                 1893 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Sunday                   2828 commits        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -91,7 +50,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:51:05 UTC
+ Last Updated on 16/11/2025 18:51:42 UTC
 <!--END_SECTION:waka-->
 
 
