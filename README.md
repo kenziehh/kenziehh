@@ -21,7 +21,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,7 +91,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 18:53:52 UTC
+ Last Updated on 29/11/2025 18:54:14 UTC
 <!--END_SECTION:waka-->
 
 
