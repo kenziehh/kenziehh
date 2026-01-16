@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C395%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C396%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,16 +62,16 @@ Sunday                   3135 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Source Code_Kenzie Taqiya16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,7 +91,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:07:04 UTC
+ Last Updated on 16/01/2026 19:01:19 UTC
 <!--END_SECTION:waka-->
 
 
