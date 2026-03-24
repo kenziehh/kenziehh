@@ -19,7 +19,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,19 +62,19 @@ Sunday                   3184 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      3 hrs 49 mins       █████████████████░░░░░░░░   69.57 % 
-Vue.js                   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+PHP                      3 hrs 38 mins       ██████████████████░░░░░░░   72.52 % 
+Vue.js                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-truku.id                 5 hrs 30 mins       █████████████████████████   100.00 % 
+truku.id                 5 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 19:33:44 UTC
+ Last Updated on 24/03/2026 19:39:50 UTC
 <!--END_SECTION:waka-->
 
 
