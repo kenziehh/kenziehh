@@ -21,13 +21,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,7 +40,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 ```text
 🌞 Morning                1395 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 🌆 Daytime                6103 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
-🌃 Evening                4509 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌃 Evening                4510 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
 🌙 Night                  2142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -49,7 +49,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 Monday                   1400 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 Tuesday                  2067 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Wednesday                2221 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 1657 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Thursday                 1658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 Friday                   1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 Saturday                 2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 Sunday                   3184 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
@@ -77,11 +77,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               40 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               41 repos            █████████████░░░░░░░░░░░░   50.62 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
@@ -91,7 +91,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 19:53:50 UTC
+ Last Updated on 16/04/2026 19:50:08 UTC
 <!--END_SECTION:waka-->
 
 
