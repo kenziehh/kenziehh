@@ -19,15 +19,13 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,11 +36,11 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               42 repos            █████████████░░░░░░░░░░░░   50.60 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               42 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
@@ -52,7 +50,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:38:31 UTC
+ Last Updated on 28/05/2026 21:02:09 UTC
 <!--END_SECTION:waka-->
 
 
