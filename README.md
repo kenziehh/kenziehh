@@ -19,13 +19,17 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 131 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,14 +37,59 @@ I am an Informatics Engineering student at Brawijaya University who is currently
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌆 Daytime                5478 commits        ███████████░░░░░░░░░░░░░░   43.45 % 
+🌃 Evening                4111 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌙 Night                  1696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1098 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Tuesday                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Wednesday                2092 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 1462 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   1441 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Saturday                 1806 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Sunday                   2859 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               44 repos            ████████████░░░░░░░░░░░░░   48.35 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-GDScript                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TypeScript               44 repos            ████████████░░░░░░░░░░░░░   47.83 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+GDScript                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -50,7 +99,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:30:50 UTC
+ Last Updated on 07/08/2026 19:36:52 UTC
 <!--END_SECTION:waka-->
 
 
