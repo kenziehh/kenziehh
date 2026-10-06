@@ -29,7 +29,7 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 369 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@ I am an Informatics Engineering student at Brawijaya University who is currently
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                5678 commits        ███████████░░░░░░░░░░░░░░   42.98 % 
-🌃 Evening                4322 commits        ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+🌞 Morning                1346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+🌆 Daytime                5678 commits        ███████████░░░░░░░░░░░░░░   42.91 % 
+🌃 Evening                4325 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+🌙 Night                  1884 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1174 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Tuesday                  1937 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Wednesday                2153 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   1475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Saturday                 1938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   3016 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Monday                   1177 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Tuesday                  1956 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                2153 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Friday                   1475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Saturday                 1938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Sunday                   3016 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 ```
 
 
@@ -85,11 +85,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               49 repos            ████████████░░░░░░░░░░░░░   49.00 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript               49 repos            ████████████░░░░░░░░░░░░░   48.51 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
@@ -99,7 +99,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kenziehh/kenziehh/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:56:03 UTC
+ Last Updated on 06/10/2026 00:21:45 UTC
 <!--END_SECTION:waka-->
 
 
